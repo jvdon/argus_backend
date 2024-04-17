@@ -1,5 +1,5 @@
 import os
-import cv2
+# import cv2
 from flask import Flask, request, jsonify, make_response, send_file
 import mysql.connector
 import mysql
